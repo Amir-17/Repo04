@@ -1,9 +1,9 @@
 function main(numOne, numTwo) {
     // only change code below this line
-    var reminder;
-    reminder = numOne % numTwo
+    var remiander;
+    remainder = numOne % numTwo;
     // only change code above this line
-    return reminder;
+    return remainder;
 }
 console.log(main(5, 2));
 console.log(main(15, 4));

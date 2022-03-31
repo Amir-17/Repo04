@@ -2,7 +2,7 @@ function main() {
     // only change code below this line
     var myDecimal;
     myDecimal = 8.2;
-    var myDecimalE
+    var myDecimalE;
     myDecimalE = 254e-5;
     // only change code above this line
     return {
