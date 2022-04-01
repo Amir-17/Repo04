@@ -1,4 +1,4 @@
-function main() {
+function main(){
     // only change code below this line
     var myDecimal;
     myDecimal = 8.2;

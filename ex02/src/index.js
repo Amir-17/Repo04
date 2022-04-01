@@ -1,4 +1,4 @@
-function main() {
+function main(){
     var myRes = 75;
     // only change code below this line
     myRes++;
