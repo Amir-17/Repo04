@@ -3,7 +3,9 @@ function main(){
     var myDecimal;
     myDecimal = 8.2;
     var myDecimalE;
-    myDecimalE = 254e-5;
+    myDecimalE = 2.54e-3;
+
+    myDecimalE = myDecimalE.toPrecision();
     // only change code above this line
     return {
         myDecimal,
